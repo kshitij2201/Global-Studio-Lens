@@ -10,6 +10,7 @@ html,body{
 h3,h2,h6,p{
     font-family: sans-serif;
 }
+/* navbar  */
 .nav-bar{
     width: 100%;
     height: 300px;
@@ -132,7 +133,7 @@ h3,h2,h6,p{
 
 
 
-/*  carosal  section */
+/*  home section */
 .carosal{
   width: 100%;
   height: 670px;
@@ -487,9 +488,8 @@ font-size: 15px;
       }
 }
 
-
-
 /*  about page  */
+
 .about-us{
   width: 80%;
   height: 250px;
@@ -730,6 +730,7 @@ font-size: 15px;
 
 
 /*  services page */
+
 .services-card{
   width: 100%;
   height: 2600px;
@@ -803,6 +804,8 @@ height: 100%;
 }
 
 /*  contact page */
+
+
 .box-thankyou{
   width: 100%;
   height: 150px;
@@ -880,3 +883,4 @@ font-family: cursive;
       width: 400px;
     }
 }
+
